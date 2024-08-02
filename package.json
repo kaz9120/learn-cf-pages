@@ -12,8 +12,9 @@
     "vue": "^3.4.31"
   },
   "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240729.0",
     "@vitejs/plugin-vue": "^5.0.5",
-    "typescript": "^5.2.2",
+    "typescript": "^5.5.4",
     "vite": "^5.3.4",
     "vue-tsc": "^2.0.24"
   }
